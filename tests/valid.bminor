@@ -1,0 +1,11 @@
+main: function integer () = {
+    a: integer = 7;
+    b: integer = 3;
+    sum: integer = a + b;
+    result: integer = (a + b) * 2;
+
+    print "hello amirkabir\n";
+    print "sum: ", sum, "\n";
+    print "result: ", result, "\n";
+    return 0;
+}

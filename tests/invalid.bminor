@@ -1,0 +1,8 @@
+main: function integer () = {
+    x: integer = ;
+    y: integer = 42;
+    @
+    print y;
+    return ;
+}
+second: function integer () = { return 1; }
